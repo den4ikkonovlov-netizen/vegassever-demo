@@ -1,0 +1,8 @@
+{
+  "name": "vegas-sever-cinema",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Презентационный сайт кинокафе Вегас, Северодвинск",
+  "scripts": {"start":"node serve.mjs", "check":"node verify.cjs"},
+  "engines": {"node": ">=20"}
+}
