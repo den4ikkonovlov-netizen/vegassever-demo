@@ -10,6 +10,9 @@
 
 ## Публикация
 
+Сайт: https://den4ikkonovlov-netizen.github.io/vegassever-demo/  
+Репозиторий: https://github.com/den4ikkonovlov-netizen/vegassever-demo
+
 Публичная версия разворачивается на GitHub Pages из папки `dist/` при отправке изменений в ветку `main`. Настройка — в `.github/workflows/pages.yml`. В репозиторий входят исходники и готовый сайт; тестовые снимки, исследовательские оригиналы и локальная конфигурация `.openai/` исключены. Это демонстрационная версия, что отмечено внизу страницы.
 
 ## Файлы
